@@ -1,14 +1,14 @@
 # selenium-ui-testing-assignment
 
-Test Scenarios Implemented
+<h1>Test Scenarios Implemented</h1>
 
-Open the YouTube website.
+<h2>Open the YouTube website.</h2>
 
-Maximize the browser window.
+<h3>Maximize the browser window.</h3>
 
-Locate the search input field using Selenium locators.
+<h4>Locate the search input field using Selenium ,</h4>
 
-Enter the search query "Selenium tutorial".
+<h5>Enter the search query "Selenium tutorial".</h5>
 
 Submit the search using the submit() method.
 
